@@ -1,8 +1,3 @@
 HeLLO WORLD!!!
 12345
-<<<<<<< HEAD
-Good bye good evening! (from branch master)
-=======
-Good bye!
-line from user1
->>>>>>> eed4250959e522c1dccee28a513d74245389d113
+
